@@ -1,0 +1,22 @@
+.spaced {
+  letter-spacing: 3px;
+}
+
+#button-cancel {
+  margin: 0 5px;
+  background-color: #85b06b;
+  border-color: #85b06b;
+  padding: 0.7rem 0.75rem 0.375rem;
+}
+
+#button-cancel:hover:enabled {
+  color: #4db30e;
+  background-color: #f8edd6;
+  border-color: #85b06b;
+}
+
+#button-confirm {
+  margin: 0 5px;
+  padding-top: 8px;
+  padding: 0.7rem 0.75rem 0.375rem;
+}

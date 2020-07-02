@@ -1,0 +1,14 @@
+#orderButton {
+  color: #f8edd6;
+  border-color: #d16f3e;
+  background-color: #d16f3e;
+  margin: 10px 0 5px;
+  letter-spacing: 3px;
+  padding: 0.7rem 0.75rem 0.375rem;
+}
+
+#orderButton:hover:enabled {
+  color: #d16f3e;
+  background-color: #f8edd6;
+  border-color: #d16f3e;
+}

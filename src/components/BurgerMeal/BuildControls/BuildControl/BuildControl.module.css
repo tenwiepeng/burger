@@ -1,0 +1,14 @@
+.BuildControl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.Label {
+  padding: 5px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  width: 225px;
+  color: #fff;
+}

@@ -1,0 +1,34 @@
+#button-l {
+  margin: 0 5px;
+  background-color: #85b06b;
+  border-color: #85b06b;
+}
+
+#button-l:hover:enabled {
+  color: #4db30e;
+  background-color: #f8edd6;
+  border-color: #85b06b;
+}
+
+#button-r {
+  margin: 0 5px;
+}
+
+#count {
+  text-align: center;
+  width: 20px;
+}
+
+#bread-l {
+  margin: 0 1px;
+  background-color: #85b06b;
+  border-color: #85b06b;
+}
+#bread-l:hover {
+  color: #4db30e;
+  background-color: #f8edd6;
+  border-color: #85b06b;
+}
+#bread-r {
+  margin: 0 1px;
+}

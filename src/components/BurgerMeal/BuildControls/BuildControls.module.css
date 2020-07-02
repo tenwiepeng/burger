@@ -1,0 +1,15 @@
+.BuildControls {
+  width: 100%;
+  background-color: #444443;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 5px auto auto;
+  padding: 15px 0 5px;
+  color: #f8edd6;
+}
+
+.Header {
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+}
