@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d85067da6891d13f8aada25ac851548e",
+    "revision": "6fb3dd6d386210f7e3c40e2cd017fd4d",
     "url": "/burger/index.html"
   },
   {
@@ -8,19 +8,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/burger/static/css/2.43079d8c.chunk.css"
   },
   {
-    "revision": "fa359455e8462c1fc7e1",
-    "url": "/burger/static/css/3.97f4e5c4.chunk.css"
+    "revision": "0c421bf15bf5d47b2c6f",
+    "url": "/burger/static/css/3.75e0489d.chunk.css"
   },
   {
-    "revision": "8d7cfe4a1684f16b296b",
-    "url": "/burger/static/css/4.efff8329.chunk.css"
+    "revision": "156c8da6812b48afdce3",
+    "url": "/burger/static/css/4.19cf76f2.chunk.css"
   },
   {
     "revision": "d96fb8d3d39cfef8a57d",
     "url": "/burger/static/css/5.99a5c08a.chunk.css"
   },
   {
-    "revision": "a401c62bad32b75571ac",
+    "revision": "2513fdb0742e98f60c8c",
     "url": "/burger/static/css/main.f19cfc0e.chunk.css"
   },
   {
@@ -32,23 +32,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/burger/static/js/2.dbf0621f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa359455e8462c1fc7e1",
-    "url": "/burger/static/js/3.ac0a9746.chunk.js"
+    "revision": "0c421bf15bf5d47b2c6f",
+    "url": "/burger/static/js/3.d348cf16.chunk.js"
   },
   {
-    "revision": "8d7cfe4a1684f16b296b",
-    "url": "/burger/static/js/4.b6aeee73.chunk.js"
+    "revision": "156c8da6812b48afdce3",
+    "url": "/burger/static/js/4.65a99249.chunk.js"
   },
   {
     "revision": "d96fb8d3d39cfef8a57d",
     "url": "/burger/static/js/5.4edf0a20.chunk.js"
   },
   {
-    "revision": "a401c62bad32b75571ac",
-    "url": "/burger/static/js/main.1b21eb91.chunk.js"
+    "revision": "2513fdb0742e98f60c8c",
+    "url": "/burger/static/js/main.4e717a2e.chunk.js"
   },
   {
-    "revision": "c728f83d2b195155a4f6",
-    "url": "/burger/static/js/runtime-main.1ded6f4d.js"
+    "revision": "9ee41938a853ab4dbf39",
+    "url": "/burger/static/js/runtime-main.10befa3f.js"
   }
 ]);
